@@ -1,5 +1,5 @@
-#Question link: https://www.hackerrank.com/challenges/30-arrays/problem
-#Code section:
+// Question link: https://www.hackerrank.com/challenges/30-arrays/problem
+// Code section:
 import java.io.*;
 import java.math.*;
 import java.security.*;
