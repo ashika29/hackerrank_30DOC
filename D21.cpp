@@ -1,5 +1,5 @@
-# Question link: https://www.hackerrank.com/challenges/30-generics/problem
-# Code:
+// Question link: https://www.hackerrank.com/challenges/30-generics/problem
+// Code:
 #include <iostream>
 #include <vector>
 #include <string>
