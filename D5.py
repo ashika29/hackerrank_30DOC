@@ -1,5 +1,5 @@
-// Question link: https://www.hackerrank.com/challenges/30-loops/problem
-// Code section:
+# Question link: https://www.hackerrank.com/challenges/30-loops/problem
+# Code section:
 #!/bin/python3
 if __name__ == '__main__':
     n = int(input())
