@@ -1,5 +1,5 @@
-// Question link: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
-// Code section:
+# Question link: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+# Code section:
 class Person:
     def __init__(self,initialAge):
         if initialAge < 0:
